@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @guilhermecruz760
+# Guilherme Cruz
+- 👋 Hi, I’m Guilherme Cruz
 - 👀 I’m interested in AI, tech and almost every sport and to the adrenaline of racing
-- 🌱 I’m currently learning Electronic and Computer Engineering 
+- 🌱 Currently enrolled in Electronic and Computer Engineering Bsc Degree 
 - 📫 You might reach me by my email (guilhermecruz760@gmail.com)
 
 <!---
