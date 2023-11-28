@@ -1,7 +1,7 @@
 # Guilherme Cruz
 - 👋 Hi, I’m Guilherme Cruz
 - 👀 I’m interested in AI, tech and almost every sport and to the adrenaline of racing
-- 🌱 Currently enrolled in Electronic and Computer Engineering Bsc Degree 
+- 🌱 Currently enrolled in Electronic and Computer Engineering Bsc Degree at University of Coimbra
 - 📫 You might reach me by my email (guilhermecruz760@gmail.com)
 
 <!---
